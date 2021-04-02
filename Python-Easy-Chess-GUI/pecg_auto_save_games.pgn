@@ -1,0 +1,674 @@
+[Event "Human vs computer"]
+[Site "?"]
+[Date "2021.02.21"]
+[Round "?"]
+[White "Human"]
+[Black "CDrill 1800"]
+[Result "*"]
+[BlackTimeControl "180+2"]
+[WhiteTimeControl "300+10"]
+
+1. d4 d5 { book } 2. e3 Nf6 { book } 3. f4 c5 { book } 4. b3 Nc6 5. h4 Ne4 6. a4 h5 7. f5 Bxf5 8. dxc5 Bg4 9. Qxg4 hxg4 10. Rh3 gxh3 11. Nxh3 e6 12. a5 Qxh4+ 13. g3 Qxg3+ 14. Ke2 Be7 15. Nc3 Qg4+ *
+
+[Event "Human vs computer"]
+[Site "?"]
+[Date "2021.02.21"]
+[Round "?"]
+[White "Human"]
+[Black "CDrill 1800"]
+[Result "*"]
+[BlackTimeControl "180+2"]
+[WhiteTimeControl "300+10"]
+
+1. f4 e5 { book } 2. e3 Nc6 3. d3 d5 4. fxe5 Nxe5 *
+
+[Event "Human vs computer"]
+[Site "?"]
+[Date "2021.02.21"]
+[Round "?"]
+[White "Human"]
+[Black "CDrill 1800"]
+[Result "*"]
+[BlackTimeControl "180+2"]
+[WhiteTimeControl "300+10"]
+
+1. d4 Nf6 { book } *
+
+[Event "Human vs computer"]
+[Site "?"]
+[Date "2021.02.21"]
+[Round "?"]
+[White "Human"]
+[Black "CDrill 1800"]
+[Result "*"]
+[BlackTimeControl "180+2"]
+[WhiteTimeControl "300+10"]
+
+1. d4 d5 { book } 2. e3 Nf6 { book } 3. f4 Bf5 { book } *
+
+[Event "Human vs computer"]
+[Site "?"]
+[Date "2021.02.21"]
+[Round "?"]
+[White "Human"]
+[Black "CDrill 1800"]
+[Result "*"]
+[BlackTimeControl "180+2"]
+[WhiteTimeControl "300+10"]
+
+1. a3 Nf6 { book } 2. c4 g6 { book } 3. Nf3 d5 *
+
+[Event "Human vs computer"]
+[Site "?"]
+[Date "2021.02.21"]
+[Round "?"]
+[White "Human"]
+[Black "CDrill 1800"]
+[Result "*"]
+[BlackTimeControl "180+2"]
+[WhiteTimeControl "300+10"]
+
+*
+
+[Event "Human vs computer"]
+[Site "?"]
+[Date "2021.02.21"]
+[Round "?"]
+[White "Human"]
+[Black "CDrill 1800"]
+[Result "*"]
+[BlackTimeControl "180+2"]
+[WhiteTimeControl "300+10"]
+
+1. a3 d5 { book } *
+
+[Event "Human vs computer"]
+[Site "?"]
+[Date "2021.02.21"]
+[Round "?"]
+[White "Human"]
+[Black "CDrill 1800"]
+[Result "*"]
+[BlackTimeControl "180+2"]
+[WhiteTimeControl "300+10"]
+
+1. Na3 e5 { book } *
+
+[Event "Human vs computer"]
+[Site "?"]
+[Date "2021.02.22"]
+[Round "?"]
+[White "Human"]
+[Black "CDrill 1800"]
+[Result "*"]
+[BlackTimeControl "180+2"]
+[WhiteTimeControl "300+10"]
+
+1. c4 e6 { book } 2. c5 Bxc5 *
+
+[Event "Human vs computer"]
+[Site "?"]
+[Date "2021.02.22"]
+[Round "?"]
+[White "Human"]
+[Black "CDrill 1800"]
+[Result "*"]
+[BlackTimeControl "180+2"]
+[WhiteTimeControl "300+10"]
+
+1. a4 e5 { book } *
+
+[Event "Human vs computer"]
+[Site "?"]
+[Date "2021.02.22"]
+[Round "?"]
+[White "Human"]
+[Black "Deuterium v2019.1.36.50"]
+[Result "1-0"]
+[BlackTimeControl "180+2"]
+[Termination "Adjudication"]
+[WhiteTimeControl "300+10"]
+
+1. e3 d5 { book } 1-0
+
+[Event "Human vs computer"]
+[Site "?"]
+[Date "2021.02.22"]
+[Round "?"]
+[White "Human"]
+[Black "Deuterium v2019.1.36.50"]
+[Result "1-0"]
+[BlackTimeControl "180+2"]
+[Termination "Adjudication"]
+[WhiteTimeControl "300+10"]
+
+1. f3 e5 { book } 1-0
+
+[Event "Human vs computer"]
+[Site "?"]
+[Date "2021.02.22"]
+[Round "?"]
+[White "Human"]
+[Black "CDrill 1800"]
+[Result "*"]
+[BlackTimeControl "180+2"]
+[WhiteTimeControl "300+10"]
+
+1. g3 d5 { book } 2. Bg2 Nf6 { book } 3. Nf3 c6 { book } 4. O-O Bg4 { book } *
+
+[Event "Human vs computer"]
+[Site "?"]
+[Date "2021.02.22"]
+[Round "?"]
+[White "Human"]
+[Black "CDrill 1800"]
+[Result "*"]
+[BlackTimeControl "180+2"]
+[WhiteTimeControl "300+10"]
+
+1. a3 d5 { book } 2. g3 Bf5 3. Bg2 Qd6 4. Nf3 Qa6 5. Rf1 Nf6 *
+
+[Event "Human vs computer"]
+[Site "?"]
+[Date "2021.02.22"]
+[Round "?"]
+[White "Human"]
+[Black "CDrill 1800"]
+[Result "*"]
+[BlackTimeControl "180+2"]
+[WhiteTimeControl "300+10"]
+
+1. d3 d5 { book } 2. d4 Qd7 3. Qd3 Nc6 4. Bd2 Qg4 5. Na3 Bf5 6. O-O-O Bxd3 7. exd3 Qxd4 *
+
+[Event "Human vs computer"]
+[Site "?"]
+[Date "2021.02.22"]
+[Round "?"]
+[White "Human"]
+[Black "CDrill 1800"]
+[Result "*"]
+[BlackTimeControl "180+2"]
+[WhiteTimeControl "300+10"]
+
+1. a3 g6 { book } *
+
+[Event "Human vs computer"]
+[Site "?"]
+[Date "2021.02.22"]
+[Round "?"]
+[White "Human"]
+[Black "CDrill 1800"]
+[Result "*"]
+[BlackTimeControl "180+2"]
+[WhiteTimeControl "300+10"]
+
+1. Nc3 Nf6 { book } *
+
+[Event "Human vs computer"]
+[Site "?"]
+[Date "2021.02.28"]
+[Round "?"]
+[White "Human"]
+[Black "CDrill 1800"]
+[Result "*"]
+[BlackTimeControl "180+2"]
+[WhiteTimeControl "300+10"]
+
+*
+
+[Event "Human vs computer"]
+[Site "?"]
+[Date "2021.02.28"]
+[Round "?"]
+[White "Human"]
+[Black "CDrill 1800"]
+[Result "*"]
+[BlackTimeControl "180+2"]
+[WhiteTimeControl "300+10"]
+
+*
+
+[Event "Human vs computer"]
+[Site "?"]
+[Date "2021.02.28"]
+[Round "?"]
+[White "Human"]
+[Black "CDrill 1800"]
+[Result "*"]
+[BlackTimeControl "180+2"]
+[WhiteTimeControl "300+10"]
+
+*
+
+[Event "Human vs computer"]
+[Site "?"]
+[Date "2021.02.28"]
+[Round "?"]
+[White "Human"]
+[Black "CDrill 1800"]
+[Result "*"]
+[BlackTimeControl "180+2"]
+[WhiteTimeControl "300+10"]
+
+1. a3 c5 { book } 2. c4 Nc6 { book } 3. e3 d5 4. cxd5 Qxd5 5. Nf3 Bg4 6. h3 Bxf3 7. gxf3 O-O-O 8. f4 Qxh1 9. Qe2 Nh6 10. d3 e5 *
+
+[Event "Human vs computer"]
+[Site "?"]
+[Date "2021.03.01"]
+[Round "?"]
+[White "Human"]
+[Black "CDrill 1800"]
+[Result "*"]
+[BlackTimeControl "180+2"]
+[WhiteTimeControl "300+10"]
+
+*
+
+[Event "Human vs computer"]
+[Site "?"]
+[Date "2021.03.01"]
+[Round "?"]
+[White "Human"]
+[Black "CDrill 1800"]
+[Result "*"]
+[BlackTimeControl "180+2"]
+[WhiteTimeControl "300+10"]
+
+1. a3 a6 { book } *
+
+[Event "Human vs computer"]
+[Site "?"]
+[Date "2021.03.01"]
+[Round "?"]
+[White "Human"]
+[Black "CDrill 1800"]
+[Result "*"]
+[BlackTimeControl "180+2"]
+[WhiteTimeControl "300+10"]
+
+*
+
+[Event "Human vs computer"]
+[Site "?"]
+[Date "2021.03.01"]
+[Round "?"]
+[White "Human"]
+[Black "CDrill 1800"]
+[Result "*"]
+[BlackTimeControl "180+2"]
+[WhiteTimeControl "300+10"]
+
+1. a3 d5 { book } 2. d4 Nf6 { book } *
+
+[Event "Human vs computer"]
+[Site "?"]
+[Date "2021.03.01"]
+[Round "?"]
+[White "Human"]
+[Black "CDrill 1800"]
+[Result "*"]
+[BlackTimeControl "180+2"]
+[WhiteTimeControl "300+10"]
+
+*
+
+[Event "Human vs computer"]
+[Site "?"]
+[Date "2021.03.01"]
+[Round "?"]
+[White "Human"]
+[Black "CDrill 1800"]
+[Result "*"]
+[BlackTimeControl "180+2"]
+[WhiteTimeControl "300+10"]
+
+*
+
+[Event "Human vs computer"]
+[Site "?"]
+[Date "2021.03.01"]
+[Round "?"]
+[White "Human"]
+[Black "CDrill 1800"]
+[Result "*"]
+[BlackTimeControl "180+2"]
+[WhiteTimeControl "300+10"]
+
+*
+
+[Event "Human vs computer"]
+[Site "?"]
+[Date "2021.03.01"]
+[Round "?"]
+[White "Human"]
+[Black "CDrill 1800"]
+[Result "*"]
+[BlackTimeControl "180+2"]
+[WhiteTimeControl "300+10"]
+
+1. c4 e5 { book } *
+
+[Event "Human vs computer"]
+[Site "?"]
+[Date "2021.03.01"]
+[Round "?"]
+[White "Human"]
+[Black "CDrill 1800"]
+[Result "*"]
+[BlackTimeControl "180+2"]
+[WhiteTimeControl "300+10"]
+
+*
+
+[Event "Human vs computer"]
+[Site "?"]
+[Date "2021.03.01"]
+[Round "?"]
+[White "Human"]
+[Black "CDrill 1800"]
+[Result "*"]
+[BlackTimeControl "180+2"]
+[WhiteTimeControl "300+10"]
+
+1. e4 e5 { book } *
+
+[Event "Human vs computer"]
+[Site "?"]
+[Date "2021.03.01"]
+[Round "?"]
+[White "Human"]
+[Black "CDrill 1800"]
+[Result "*"]
+[BlackTimeControl "180+2"]
+[WhiteTimeControl "300+10"]
+
+1. a3 g6 { book } *
+
+[Event "Human vs computer"]
+[Site "?"]
+[Date "2021.03.01"]
+[Round "?"]
+[White "Human"]
+[Black "CDrill 1800"]
+[Result "*"]
+[BlackTimeControl "180+2"]
+[WhiteTimeControl "300+10"]
+
+*
+
+[Event "Human vs computer"]
+[Site "?"]
+[Date "2021.03.01"]
+[Round "?"]
+[White "Human"]
+[Black "CDrill 1800"]
+[Result "*"]
+[BlackTimeControl "180+2"]
+[WhiteTimeControl "300+10"]
+
+1. a3 Nf6 { book } *
+
+[Event "Human vs computer"]
+[Site "?"]
+[Date "2021.03.01"]
+[Round "?"]
+[White "Human"]
+[Black "CDrill 1800"]
+[Result "*"]
+[BlackTimeControl "180+2"]
+[WhiteTimeControl "300+10"]
+
+1. a3 e5 { book } *
+
+[Event "Human vs computer"]
+[Site "?"]
+[Date "2021.03.01"]
+[Round "?"]
+[White "Human"]
+[Black "CDrill 1800"]
+[Result "*"]
+[BlackTimeControl "180+2"]
+[WhiteTimeControl "300+10"]
+
+*
+
+[Event "Human vs computer"]
+[Site "?"]
+[Date "2021.03.01"]
+[Round "?"]
+[White "Human"]
+[Black "CDrill 1800"]
+[Result "*"]
+[BlackTimeControl "180+2"]
+[WhiteTimeControl "300+10"]
+
+1. a3 Nf6 { book } *
+
+[Event "Human vs computer"]
+[Site "?"]
+[Date "2021.03.01"]
+[Round "?"]
+[White "Human"]
+[Black "CDrill 1800"]
+[Result "*"]
+[BlackTimeControl "180+2"]
+[WhiteTimeControl "300+10"]
+
+*
+
+[Event "Human vs computer"]
+[Site "?"]
+[Date "2021.03.01"]
+[Round "?"]
+[White "Human"]
+[Black "CDrill 1800"]
+[Result "*"]
+[BlackTimeControl "180+2"]
+[WhiteTimeControl "300+10"]
+
+*
+
+[Event "Human vs computer"]
+[Site "?"]
+[Date "2021.03.01"]
+[Round "?"]
+[White "Human"]
+[Black "CDrill 1800"]
+[Result "*"]
+[BlackTimeControl "180+2"]
+[WhiteTimeControl "300+10"]
+
+*
+
+[Event "Human vs computer"]
+[Site "?"]
+[Date "2021.03.01"]
+[Round "?"]
+[White "Human"]
+[Black "CDrill 1800"]
+[Result "*"]
+[BlackTimeControl "180+2"]
+[WhiteTimeControl "300+10"]
+
+*
+
+[Event "Human vs computer"]
+[Site "?"]
+[Date "2021.03.01"]
+[Round "?"]
+[White "Human"]
+[Black "CDrill 1800"]
+[Result "*"]
+[BlackTimeControl "180+2"]
+[WhiteTimeControl "300+10"]
+
+*
+
+[Event "Human vs computer"]
+[Site "?"]
+[Date "2021.03.01"]
+[Round "?"]
+[White "Human"]
+[Black "CDrill 1800"]
+[Result "*"]
+[BlackTimeControl "180+2"]
+[WhiteTimeControl "300+10"]
+
+*
+
+[Event "Human vs computer"]
+[Site "?"]
+[Date "2021.03.01"]
+[Round "?"]
+[White "Human"]
+[Black "CDrill 1800"]
+[Result "*"]
+[BlackTimeControl "180+2"]
+[WhiteTimeControl "300+10"]
+
+*
+
+[Event "Human vs computer"]
+[Site "?"]
+[Date "2021.03.01"]
+[Round "?"]
+[White "Human"]
+[Black "CDrill 1800"]
+[Result "*"]
+[BlackTimeControl "180+2"]
+[WhiteTimeControl "300+10"]
+
+1. a3 Nf6 { book } *
+
+[Event "Human vs computer"]
+[Site "?"]
+[Date "2021.03.01"]
+[Round "?"]
+[White "Human"]
+[Black "CDrill 1800"]
+[Result "*"]
+[BlackTimeControl "180+2"]
+[WhiteTimeControl "300+10"]
+
+*
+
+[Event "Human vs computer"]
+[Site "?"]
+[Date "2021.03.01"]
+[Round "?"]
+[White "Human"]
+[Black "CDrill 1800"]
+[Result "*"]
+[BlackTimeControl "180+2"]
+[WhiteTimeControl "300+10"]
+
+1. b3 e5 { book } *
+
+[Event "Human vs computer"]
+[Site "?"]
+[Date "2021.03.01"]
+[Round "?"]
+[White "Human"]
+[Black "CDrill 1800"]
+[Result "*"]
+[BlackTimeControl "180+2"]
+[WhiteTimeControl "300+10"]
+
+*
+
+[Event "Human vs computer"]
+[Site "?"]
+[Date "2021.03.01"]
+[Round "?"]
+[White "Human"]
+[Black "CDrill 1800"]
+[Result "*"]
+[BlackTimeControl "180+2"]
+[WhiteTimeControl "300+10"]
+
+1. a3 g6 { book } *
+
+[Event "Human vs computer"]
+[Site "?"]
+[Date "2021.03.01"]
+[Round "?"]
+[White "Human"]
+[Black "CDrill 1800"]
+[Result "*"]
+[BlackTimeControl "180+2"]
+[WhiteTimeControl "300+10"]
+
+*
+
+[Event "Human vs computer"]
+[Site "?"]
+[Date "2021.03.01"]
+[Round "?"]
+[White "Human"]
+[Black "CDrill 1800"]
+[Result "*"]
+[BlackTimeControl "180+2"]
+[WhiteTimeControl "300+10"]
+
+1. d4 Nf6 { book } *
+
+[Event "Human vs computer"]
+[Site "?"]
+[Date "2021.03.01"]
+[Round "?"]
+[White "Human"]
+[Black "CDrill 1800"]
+[Result "*"]
+[BlackTimeControl "180+2"]
+[WhiteTimeControl "300+10"]
+
+1. a3 d5 { book } 2. Nc3 d4 *
+
+[Event "Human vs computer"]
+[Site "?"]
+[Date "2021.03.01"]
+[Round "?"]
+[White "Human"]
+[Black "CDrill 1800"]
+[Result "*"]
+[BlackTimeControl "180+2"]
+[WhiteTimeControl "300+10"]
+
+1. a3 e5 { book } *
+
+[Event "Human vs computer"]
+[Site "?"]
+[Date "2021.03.01"]
+[Round "?"]
+[White "Human"]
+[Black "CDrill 1800"]
+[Result "*"]
+[BlackTimeControl "180+2"]
+[WhiteTimeControl "300+10"]
+
+1. a3 e5 { book } *
+
+[Event "Human vs computer"]
+[Site "?"]
+[Date "2021.03.01"]
+[Round "?"]
+[White "Human"]
+[Black "CDrill 1800"]
+[Result "*"]
+[BlackTimeControl "180+2"]
+[WhiteTimeControl "300+10"]
+
+*
+
+[Event "Human vs computer"]
+[Site "?"]
+[Date "2021.03.01"]
+[Round "?"]
+[White "Human"]
+[Black "CDrill 1800"]
+[Result "*"]
+[BlackTimeControl "180+2"]
+[WhiteTimeControl "300+10"]
+
+1. a3 d5 { book } *
+
